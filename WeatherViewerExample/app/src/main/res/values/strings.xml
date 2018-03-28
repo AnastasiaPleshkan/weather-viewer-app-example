@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2018 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Weather viewer</string>
+    <string name="retry">Upload</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="main_description">%s (%s)</string>
+    <string name="wind_speed">Wind speed: %s meter/sec</string>
+    <string name="wind_direction">Wind direction: %s degrees</string>
+    <string name="updated">Last updated at %s</string>
+    <string name="temp">Temp: %s C</string>
+    <string name="humidity">Humidity: %s%</string>
+    <string name="pressure">Atmospheric pressure: %s hPa</string>
+    <string name="enter_city">Enter city:</string>
+    <string name="add_city">Add city</string>
+    <string name="cities">Cities</string>
+</resources>
